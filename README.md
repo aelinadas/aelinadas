@@ -26,7 +26,7 @@
 [<img align="left" alt="Git" width="26px" src="/git/aelinadas/images/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="/git/aelinadas/images/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="/git/aelinadas/images/terminal.png" />]
-[<img align="left" alt="Maven" width="26px" src="/git/aelinadas/images/maven.png" />]
+[<img align="left" alt="Maven" width="26px" src="/Users/aelinadas/Desktop/git/aelinadas/images/maven.png" />]
 <br />
 <br />
 
