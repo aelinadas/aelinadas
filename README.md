@@ -13,20 +13,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="img | Facebook" width="22px" src="/git/aelinadas/images/facebook.svg" />][facebook]
-[<img align="left" alt="img | LinkedIn" width="22px" src="/git/aelinadas/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="img | Facebook" width="22px" src="/aelinadas/images/facebook.svg" />][facebook]
+[<img align="left" alt="img | LinkedIn" width="22px" src="/aelinadas/images/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Java" width="26px" src="git/aelinadas/images/java.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="git/aelinadas/images/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="git/aelinadas/images/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="git/aelinadas/images/javascript.png" />]
-[<img align="left" alt="MySQL" width="26px" src="git/aelinadas/images/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="git/aelinadas/images/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="git/aelinadas/images/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="git/aelinadas/images/terminal.png" />]
-[<img align="left" alt="Maven" width="26px" src="git/aelinadas/images/maven.png" />]
+[<img align="left" alt="Java" width="26px" src="/aelinadas/images/java.png" />][]
+[<img align="left" alt="HTML5" width="26px" src="/aelinadas/images/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="/aelinadas/images/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="/aelinadas/images/javascript.png" />]
+[<img align="left" alt="MySQL" width="26px" src="/aelinadas/images/mysql.png" />]
+[<img align="left" alt="Git" width="26px" src="/aelinadas/images/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="/aelinadas/images/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="/aelinadas/images/terminal.png" />]
+[<img align="left" alt="Maven" width="26px" src="/aelinadas/images/maven.png" />]
 <br />
 <br />
 
