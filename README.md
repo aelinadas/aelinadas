@@ -23,7 +23,7 @@
 <img align="left" alt="HTML5" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/javascript.png" />
-<img align="left" alt="MySQL" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />
+<img align="left" alt="SQL" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/sql.png" />
 <br />
 <br />
 
@@ -33,6 +33,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terminal.png" />
 <img align="left" alt="Maven" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/maven.png" />
+<img align="left" alt="Netbeans" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/netbeans.png" />
+<img align="left" alt="Eclipse" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/eclipse.png" />
+<img align="left" alt="MySQL" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />
+<img align="left" alt="Postman" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/postman.png" />
+<img align="left" alt="VisualStudio" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/visualstudio.png" />
 <br />
 <br />
 
@@ -45,6 +50,10 @@
 <br />
 <br />
 
+
+### Testing Tools:
+<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/apachejmeter.png" />
+<img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mockito.png" />
 
 <img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=aelinadas&show_icons=true&hide_border=true" />
 
