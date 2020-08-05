@@ -33,11 +33,11 @@
 <img align="left" alt="GitHub" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terminal.png" />
 <img align="left" alt="Maven" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/maven.png" />
-<img align="left" alt="Netbeans" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/netbeans.png" />
-<img align="left" alt="Eclipse" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/eclipse.png" />
+<img align="left" alt="Netbeans" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/netbeans.png" />
+<img align="left" alt="Eclipse" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/eclipse.png" />
 <img align="left" alt="MySQL" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />
-<img align="left" alt="Postman" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/postman.png" />
-<img align="left" alt="VisualStudio" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/visualstudio.jpeg" />
+<img align="left" alt="Postman" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/postman.png" />
+<img align="left" alt="VisualStudio" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/visualstudio.jpeg" />
 <br />
 <br />
 
