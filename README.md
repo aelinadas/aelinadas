@@ -17,13 +17,13 @@
 <br />
 
 ### Languages:
-[<img align="left" alt="Java" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />]
+[<img align="left" alt="Java" width="29px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/imagess/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/javascript.png" />]
-[<img align="left" alt="MySQL" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />]
+[<img align="left" alt="MySQL" width="29px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />]\
 <br />
-<br />\
+<br />
 
 
 ### Tools:
@@ -38,7 +38,7 @@
 ### Cloud Computing Tools:
 [<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/aws.png" />]
 [<img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terraform.png" />]
-[<img align="left" alt="Packer" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.png" />]
+[<img align="left" alt="Packer" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.svg" />]
 [<img align="left" alt="CircleCI" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/circleci.png" />]
 <br />
 <br />
