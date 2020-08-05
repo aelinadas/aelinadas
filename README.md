@@ -48,17 +48,17 @@
 <br />
 <br />
 
-### Continuous Integration & Delivery Inside Private Cloud
+### Continuous Integration & Delivery Inside Private Cloud:
 <img align="left" alt="CircleCI" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/circleci.png" />
 <br />
 <br />
 
 ### Docker Containers:
-<img align="left" alt="Packer" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.svg" />
+<img align="left" alt="Packer" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.svg" />
 <br />
 <br />
 
-### Infrastructure As Code
+### Infrastructure As Code:
 <img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terraform.png" />
 <br />
 <br />
