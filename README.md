@@ -31,7 +31,6 @@
 <br />
 <br />
 
-<img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
-
+<img align="left" alt="github" />
 [facebook]: https://www.facebook.com/aelina.das
 [linkedin]: https://www.linkedin.com/in/aelina-das
