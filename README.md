@@ -43,17 +43,17 @@
 <br />
 
 
-### Cloud Computing Tools:
+### Cloud Computing Platform:
 <img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/aws.png" />
 <br />
 <br />
 
-### Continuous Integration & Delivery Inside Private Cloud:
+### Continuous Integration & Delivery:
 <img align="left" alt="CircleCI" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/circleci.png" />
 <br />
 <br />
 
-### Docker Containers:
+### Docker Container:
 <img align="left" alt="Packer" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.svg" />
 <br />
 <br />
