@@ -32,7 +32,7 @@
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terminal.png" />]
 [<img align="left" alt="Maven" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/maven.png" />]
 <br />
-<br />\
+<br />
 
 
 ### Cloud Computing Tools:
