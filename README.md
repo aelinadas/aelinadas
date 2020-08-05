@@ -37,7 +37,7 @@
 <img align="left" alt="Eclipse" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/eclipse.png" />
 <img align="left" alt="MySQL" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />
 <img align="left" alt="Postman" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/postman.png" />
-<img align="left" alt="VisualStudio" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/visualstudio.png" />
+<img align="left" alt="VisualStudio" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/visualstudio.jpeg" />
 <br />
 <br />
 
@@ -52,7 +52,7 @@
 
 
 ### Testing Tools:
-<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/apachejmeter.png" />
+<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/apachejmeter.jpg" />
 <img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mockito.png" />
 
 <img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=aelinadas&show_icons=true&hide_border=true" />
