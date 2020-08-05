@@ -16,12 +16,16 @@
 [<img align="left" alt="img | LinkedIn" width="22px" src="https://github.com/aelinadas/aelinadas/blob/master/images/linkedin.svg" />][linkedin]
 <br />
 
-### Languages and Tools:
-[<img align="left" alt="Java" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />][]
+### Languages:
+[<img align="left" alt="Java" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />]
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/imagess/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/javascript.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />]
+<br />
+<br />
+
+### Tools:
 [<img align="left" alt="Git" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/git.png" />]
 [<img align="left" alt="GitHub" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/github.png" />]
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terminal.png" />]
@@ -29,6 +33,13 @@
 <br />
 <br />
 
+### Cloud Computing Tools:
+[<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/aws.png" />]
+[<img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terraform.png" />]
+[<img align="left" alt="Packer" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.png" />]
+[<img align="left" alt="CircleCI" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/circleci.png" />]
+<br />
+<br />
 <img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=aelinadas&show_icons=true&hide_border=true" />
 [facebook]: https://www.facebook.com/aelina.das
 [linkedin]: https://www.linkedin.com/in/aelina-das
