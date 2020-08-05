@@ -13,8 +13,8 @@
 
 ### Connect with me:
 
-[<img align="left" alt="img | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][https://www.facebook.com/aelina.das]
-[<img align="left" alt="img | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/aelina-das/]
+[<img align="left" alt="img | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />]https://www.facebook.com/aelina.das
+[<img align="left" alt="img | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]https://www.linkedin.com/in/aelina-das
 
 <br />
 
