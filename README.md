@@ -53,7 +53,7 @@
 <br />
 <br />
 
-### Docker Container:
+### Image Builder:
 <img align="left" alt="Packer" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.svg" />
 <br />
 <br />
