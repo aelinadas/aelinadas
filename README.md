@@ -17,7 +17,7 @@
 <br />
 
 ### Languages:
-[<img align="left" alt="Java" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />]
+<img align="left" alt="Java" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />
 [<img align="left" alt="HTML5" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/html.png" />]
 [<img align="left" alt="CSS3" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/css.png" />]
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/javascript.png" />]
