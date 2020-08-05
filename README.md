@@ -23,7 +23,8 @@
 [<img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/javascript.png" />]
 [<img align="left" alt="MySQL" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />]
 <br />
-<br />
+<br />\
+
 
 ### Tools:
 [<img align="left" alt="Git" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/git.png" />]
@@ -31,7 +32,8 @@
 [<img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terminal.png" />]
 [<img align="left" alt="Maven" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/maven.png" />]
 <br />
-<br />
+<br />\
+
 
 ### Cloud Computing Tools:
 [<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/aws.png" />]
@@ -40,6 +42,8 @@
 [<img align="left" alt="CircleCI" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/circleci.png" />]
 <br />
 <br />
+
+
 <img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=aelinadas&show_icons=true&hide_border=true" />
 [facebook]: https://www.facebook.com/aelina.das
 [linkedin]: https://www.linkedin.com/in/aelina-das
