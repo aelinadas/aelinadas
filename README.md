@@ -13,20 +13,20 @@
 
 ### Connect with me:
 
-[<img align="left" alt="img | Facebook" width="22px" src="aelinadas/aelinadas/images/facebook.svg" />][facebook]
-[<img align="left" alt="img | LinkedIn" width="22px" src="aelinadas/aelinadas/images/linkedin.svg" />][linkedin]
+[<img align="left" alt="img | Facebook" width="22px" src="https://github.com/aelinadas/aelinadas/tree/master/images/facebook.svg" />][facebook]
+[<img align="left" alt="img | LinkedIn" width="22px" src="https://github.com/aelinadas/aelinadas/tree/master/images/linkedin.svg" />][linkedin]
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Java" width="26px" src="aelinadas/aelinadas/images/java.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="aelinadas/aelinadas/images/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="aelinadas/aelinadas/images/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="aelinadas/aelinadas/images/javascript.png" />]
-[<img align="left" alt="MySQL" width="26px" src="aelinadas/aelinadas/images/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="aelinadas/aelinadas/images/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="aelinadas/aelinadas/images/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="aelinadas/aelinadas/images/terminal.png" />]
-[<img align="left" alt="Maven" width="26px" src="aelinadas/aelinadas/images/maven.png" />]
+[<img align="left" alt="Java" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/java.png" />][]
+[<img align="left" alt="HTML5" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/imagess/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/javascript.png" />]
+[<img align="left" alt="MySQL" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/mysql.png" />]
+[<img align="left" alt="Git" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/terminal.png" />]
+[<img align="left" alt="Maven" width="26px" src="https://github.com/aelinadas/aelinadas/tree/master/images/maven.png" />]
 <br />
 <br />
 
