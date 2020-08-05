@@ -18,18 +18,18 @@
 <br />
 
 ### Languages and Tools:
-[<img align="left" alt="Java" width="26px" src="/git/aelinadas/images/java.png" />][]
-[<img align="left" alt="HTML5" width="26px" src="/git/aelinadas/images/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="/git/aelinadas/images/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="/git/aelinadas/images/javascript.png" />]
-[<img align="left" alt="MySQL" width="26px" src="/git/aelinadas/images/mysql.png" />]
-[<img align="left" alt="Git" width="26px" src="/git/aelinadas/images/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="/git/aelinadas/images/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="/git/aelinadas/images/terminal.png" />]
-[<img align="left" alt="Maven" width="26px" src="/Users/aelinadas/Desktop/git/aelinadas/images/maven.png" />]
+[<img align="left" alt="Java" width="26px" src="git/aelinadas/images/java.png" />][]
+[<img align="left" alt="HTML5" width="26px" src="git/aelinadas/images/html.png" />]
+[<img align="left" alt="CSS3" width="26px" src="git/aelinadas/images/css.png" />]
+[<img align="left" alt="JavaScript" width="26px" src="git/aelinadas/images/javascript.png" />]
+[<img align="left" alt="MySQL" width="26px" src="git/aelinadas/images/mysql.png" />]
+[<img align="left" alt="Git" width="26px" src="git/aelinadas/images/git.png" />]
+[<img align="left" alt="GitHub" width="26px" src="git/aelinadas/images/github.png" />]
+[<img align="left" alt="Terminal" width="26px" src="git/aelinadas/images/terminal.png" />]
+[<img align="left" alt="Maven" width="26px" src="git/aelinadas/images/maven.png" />]
 <br />
 <br />
 
-<img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=codeSTACKr&show_icons=true&hide_border=true" />
+<img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=aelinadas&show_icons=true&hide_border=true" />
 [facebook]: https://www.facebook.com/aelina.das
 [linkedin]: https://www.linkedin.com/in/aelina-das
