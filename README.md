@@ -18,28 +18,28 @@
 
 ### Languages:
 <img align="left" alt="Java" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/java.png" />
-[<img align="left" alt="HTML5" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/html.png" />]
-[<img align="left" alt="CSS3" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/css.png" />]
-[<img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/javascript.png" />]
-[<img align="left" alt="MySQL" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />]\
+<img align="left" alt="HTML5" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/html.png" />
+<img align="left" alt="CSS3" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/css.png" />
+<img align="left" alt="JavaScript" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/javascript.png" />
+<img align="left" alt="MySQL" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mysql.png" />\
 <br />
 <br />
 
 
 ### Tools:
-[<img align="left" alt="Git" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/git.png" />]
-[<img align="left" alt="GitHub" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/github.png" />]
-[<img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terminal.png" />]
-[<img align="left" alt="Maven" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/maven.png" />]
+<img align="left" alt="Git" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/git.png" />
+<img align="left" alt="GitHub" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/github.png" />
+<img align="left" alt="Terminal" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terminal.png" />
+<img align="left" alt="Maven" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/maven.png" />
 <br />
 <br />
 
 
 ### Cloud Computing Tools:
-[<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/aws.png" />]
-[<img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terraform.png" />]
-[<img align="left" alt="Packer" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.svg" />]
-[<img align="left" alt="CircleCI" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/circleci.png" />]
+<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/aws.png" />
+<img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/terraform.png" />
+<img align="left" alt="Packer" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/packer.svg" />
+<img align="left" alt="CircleCI" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/circleci.png" />
 <br />
 <br />
 
