@@ -52,8 +52,11 @@
 
 
 ### Testing Tools:
-<img align="left" alt="AWS" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/apachejmeter.jpg" />
-<img align="left" alt="Terraform" width="26px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mockito.png" />
+<img align="left" alt="AWS" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/apachejmeter.jpg" />
+<img align="left" alt="Terraform" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/mockito.png" />
+<br />
+<br />
+
 
 <img align="left" alt="github" src="https://github-readme-stats.vercel.app/api?username=aelinadas&show_icons=true&hide_border=true" />
 
