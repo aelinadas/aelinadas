@@ -3,7 +3,7 @@
 ## I'm a Coder, Developer and an all time learner
 
 - 🔭 I’m currently working on Cloud Computing
-- 📫 How to reach me: das.aelina@gmail.com
+- 📫 How to reach me: <img align="left" alt="Java" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/gmail.jpeg" />[gmail]
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to draw, paint and cook during my free time
 
@@ -74,3 +74,4 @@
 
 [facebook]: https://www.facebook.com/aelina.das
 [linkedin]: https://www.linkedin.com/in/aelina-das
+[gmail]: das.aelina@gmail.com
