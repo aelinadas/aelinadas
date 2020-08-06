@@ -2,16 +2,14 @@
 
 ## I'm a Coder, Developer and an all time learner
 
-- 🔭 I’m currently working on latest tools and technologies
-- 🌱 I’m currently learning Cloud
+- 🔭 I’m currently working on Cloud Computing
 - 👯 I’m looking to collaborate on Cloud Technologies
 - 🤔 I’m looking for new ideas and technologies to work on
 - 📫 How to reach me: das.aelina@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love to draw and paint as well as cook 
+- ⚡ Fun fact: I love to draw, paint and cook during free time
 
 ### Connect with me:
-
 [<img align="left" alt="img | Facebook" width="22px" src="https://github.com/aelinadas/aelinadas/blob/master/images/facebook.svg" />][facebook]
 [<img align="left" alt="img | LinkedIn" width="22px" src="https://github.com/aelinadas/aelinadas/blob/master/images/linkedin.svg" />][linkedin]
 <br />
