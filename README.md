@@ -3,7 +3,6 @@
 ## I'm a Coder, Developer and an all time learner
 
 - 🔭 I’m currently working on Cloud Computing
-- 👯 I’m looking to collaborate on Cloud Technologies
 - 📫 How to reach me: das.aelina@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to draw, paint and cook during my free time
