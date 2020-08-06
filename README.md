@@ -3,7 +3,8 @@
 ## I'm a Coder, Developer and an all time learner
 
 - 🔭 I’m currently working on Cloud Computing
-- 📫 How to reach me: [<img align="left" alt="img | Facebook" width="22px" src="https://github.com/aelinadas/aelinadas/blob/master/images/gmail.jpeg" />][gmail]
+
+- 📫 How to reach me: [<img align="left" alt="img | Facebook" width="30px" src="https://github.com/aelinadas/aelinadas/blob/master/images/gmail.jpeg" />][gmail]
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to draw, paint and cook during my free time
 
