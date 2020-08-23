@@ -39,7 +39,7 @@
 <br />
 
 ### Servers:
-<img align="left" alt="tomcat" width="35px" src="https://github.com/aelinadas/aelinadas/blob/master/images/tomcat.jpg" />
+<img align="left" alt="apachetomcat" width="40px" src="https://github.com/aelinadas/aelinadas/blob/master/images/tomcat.jpg" />
 <br />
 <br />
 
