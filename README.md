@@ -5,7 +5,7 @@
 - 🔭 I’m currently working with Scotiabank as a Co-op
 - 📫 How to reach me: das.aelina@gmail.com
 - 😄 Pronouns: she/her/hers
-- ⚡ Fun fact: I love to draw, paint and cook during my free time
+- ⚡ Fun fact: I love to draw, paint and play badminton during my free time
 
 ### Connect with me:
 [<img align="left" alt="img | Facebook" width="22px" src="https://github.com/aelinadas/aelinadas/blob/master/images/facebook.svg" />][facebook]
