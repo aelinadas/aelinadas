@@ -1,6 +1,6 @@
 ### Hi there 👋 I am Aelina
 
-## I'm a Coder, Developer and an all time learner
+## I'm a Developer and an all time learner
 
 - 🔭 I’m currently working with Scotiabank as a Co-op
 - 📫 How to reach me: das.aelina@gmail.com
@@ -8,7 +8,6 @@
 - ⚡ Fun fact: I love to draw, paint and play badminton during my free time
 
 ### Connect with me:
-[<img align="left" alt="img | Facebook" width="22px" src="https://github.com/aelinadas/aelinadas/blob/master/images/facebook.svg" />][facebook]
 [<img align="left" alt="img | LinkedIn" width="22px" src="https://github.com/aelinadas/aelinadas/blob/master/images/linkedin.svg" />][linkedin]
 <br />
 <br />
