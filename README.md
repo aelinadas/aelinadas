@@ -1,8 +1,8 @@
 ### Hi there 👋 I am Aelina
 
-## I'm a Developer and an all time learner
+## I'm an Engineer and an all time learner
 
-- 🔭 I’m currently working with Scotiabank as a Co-op
+- 🔭 I’m currently working with Barclays as a Application Software Engineer 
 - 📫 How to reach me: das.aelina@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to draw, paint and play badminton during my free time
