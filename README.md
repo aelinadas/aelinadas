@@ -2,7 +2,7 @@
 
 ## I'm an Engineer and an all time learner
 
-- 🔭 I’m currently working at Barclays as a Application Software Engineer 
+- 🔭 I’m currently working at Barclays as an Application Software Engineer 
 - 📫 How to reach me: das.aelina@gmail.com
 - 😄 Pronouns: she/her/hers
 - ⚡ Fun fact: I love to draw, paint and play badminton during my free time
